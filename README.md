@@ -12,6 +12,8 @@ A BepInEx plugin for [I Am Your Beast](https://store.steampowered.com/app/187659
 * Drag the `BepInEx` folder from the mod zip file into the IAYB game folder
 * Boot up the game
 
+**NOTE:** You will only be able to see times of players who also have the mod installed and are on your Steam friends list.
+
 ## Is there a global leaderboard?
 No, and there never will be. I neither have the ability nor the interest to prevent cheating, and vetting leaderboard entries manually goes way past my paygrade (of 0$, as I'm working on this as a hobby and hosting all the relevant infrastructure needed for it at my own cost).
 
