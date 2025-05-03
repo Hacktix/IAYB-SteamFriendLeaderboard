@@ -4,7 +4,7 @@
 A BepInEx plugin for [I Am Your Beast](https://store.steampowered.com/app/1876590/I_Am_Your_Beast/) which adds a leaderboard display to the level select screen of the game, letting you compare your best times with those of your Steam friends.
 
 ## What does it look like?
-![Screenshot](https://cdn.discordapp.com/attachments/1289266484018675741/1318271008528138401/image.png?ex=67625fcc&is=67610e4c&hm=31a96480dd692d766a25869491bffa2e737a959e8d694bcc777891d29fd0d728&)
+![Screenshot](./demo.png)
 
 ## How do I use it?
 * Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
